@@ -16,11 +16,6 @@ This project conducts **Exploratory Data Analysis (EDA)** on Airbnb listing data
 - matplotlib  
 - seaborn
 
-## Project Structure
-airbnb-data-analysis/
-├── README.md
-└── airbnb_eda.ipynb
-
 ## Key Insights
 - Airbnb prices vary significantly across different locations
 - Certain listing features and amenities are associated with higher prices
